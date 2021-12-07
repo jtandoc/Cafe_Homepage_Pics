@@ -1,0 +1,47 @@
+header {
+	text-align: center;
+	padding: 5px;
+	background-color: #331a00;
+	color: white;
+	font-family: "Luxurious Script", cursive;
+	font-size: 150%;
+	text-shadow: 3px 3px 6px black;
+}
+nav {
+	word-spacing: 20px;
+	background-color: #663300;
+	padding: 5px;
+	color: white;
+	font-family: Poppins, serif;
+}
+section {
+	font-family: "Abril Fatface", sans-serif;
+	font-size: 200%;
+	text-align: center;
+}
+td.leftside {
+	font-family: Poppins, serif;
+	text-align: center;
+	padding: 0px 130px 0px 130px;
+	border-right: 5px solid #663300;
+}
+td.rightside {
+	font-family: Poppins, serif;
+	text-align: center;
+	padding: 0px 130px 0px 130px;
+}
+.atitle {
+	font-family: "Abril Fatface", sans-serif;
+}
+footer {
+	background-color: #4d2800;
+	padding: 5px;
+	text-align: center;
+	color: white;
+	font-family: Poppins, serif;
+}
+.ftitle {
+	font-family: "Luxurious Script", cursive;
+	font-size: 200%;
+	text-shadow: 3px 3px 6px black;
+}
